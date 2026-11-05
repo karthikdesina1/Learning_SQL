@@ -1,4 +1,4 @@
-# Advanced SQL Subqueries — Deep Dive
+# Advanced SQL Subqueries - Deep Dive
 
 ## Overview
 
